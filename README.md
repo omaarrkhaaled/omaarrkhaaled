@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Omar! 👋</h1>
-  <h3>Mobile Developer | Flutter Specialist</h3>
+  <h3>Junior Mobile Developer</h3>
   <p>
     <a href="https://www.linkedin.com/in/omar-khaled-bbb4aa2a6" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,9 +20,9 @@
 I am a Mobile Developer specializing in engineering high-performance, cross-platform applications using **Flutter**. My focus is on transforming complex requirements into seamless, intuitive user experiences. I don't just build apps; I craft scalable, robust mobile solutions with a strict emphasis on clean architecture, fluid UI/UX, and optimal performance.
 
 **What I focus on:**
-* 📱 **Cross-Platform Excellence:** Delivering native-level performance and highly polished interfaces from a single codebase.
-* 🏗️ **Scalable Architecture:** Writing clean, maintainable, and well-structured code that can grow with the application's needs.
-* 🎯 **User-Centric Execution:** Bridging the gap between complex technical logic and smooth, engaging mobile experiences.
+* **Cross-Platform Excellence:** Delivering native-level performance and highly polished interfaces from a single codebase.
+* **Scalable Architecture:** Writing clean, maintainable, and well-structured code that can grow with the application's needs.
+* **User-Centric Execution:** Bridging the gap between complex technical logic and smooth, engaging mobile experiences.
 
 *I am constantly pushing the boundaries of what mobile technology can do. Dive into my repositories below to see my code in action!*
 
