@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Omar! 👋</h1>
   <h3>Junior Mobile Developer</h3>
   <p>
-    <a href="https://www.linkedin.com/in/omar-khaled-bbb4aa2a6" target="_blank">
+    <a href="https://www.linkedin.com/in/omaarrkhaaled" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.facebook.com/share/18i6UtTt3D/?mibextid=wwXIfr" target="_blank">
@@ -53,23 +53,23 @@ I am a Mobile Developer specializing in engineering high-performance, cross-plat
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=OmaarKhaaled&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=OmaarKhaaled&theme=onedark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=omaarrkhaaled&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=omaarrkhaaled&theme=onedark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=OmaarKhaaled&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=omaarrkhaaled&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmaarKhaaled&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omaarrkhaaled&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=OmaarKhaaled&icon=0&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=omaarrkhaaled&icon=0&color=0" alt="Profile Views" />
   </a>
 </div>
